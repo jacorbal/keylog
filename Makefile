@@ -109,16 +109,24 @@ ${O_DIR}/%.o: ${S_DIR}/%.c
         hard hard-run help
 
 keylog:
+	@make mkdirs
 	make ${KLTARGET}
 	@make ctags
 
 klserver:
+	@make mkdirs
 	make ${KLSTARGET}
 	@make ctags
 
 kljson:
+	@make mkdirs
 	make ${KLJTARGET}
 	@make ctags
+
+mkdirs:
+	@if [ ! -d $(B_DIR) ]; then mkdir -p $(B_DIR); fi
+	@if [ ! -d $(O_DIR) ]; then mkdir -p $(O_DIR); fi
+	@if [ ! -d $(O_DIR)/tools ]; then mkdir -p $(O_DIR)/tools; fi 
 
 all:
 	make keylog
