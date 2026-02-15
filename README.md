@@ -20,7 +20,11 @@ Features
 Building
 --------
 
-Compile the project and generates the `keylog`, `klserver`, and `kljson`
+Download the repository:
+
+  git clone https://github.com/jacorbal/keylog.git
+
+Compile the project and generate the `keylog`, `klserver`, and `kljson`
 executables in the `bin/` directory.
 
     cd keylog/
