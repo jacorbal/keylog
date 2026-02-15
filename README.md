@@ -159,7 +159,7 @@ License
 --------
 
 This software is licensed under the 'ISC License'.
-Read the [`LICENSE`](LICENSE) file on this repository, or gather more
+Read the [`COPYING`](COPYING) file on this repository, or gather more
 information on [ISC Open Source Software
 Licenses](https://www.isc.org/licenses/).
 
