@@ -22,7 +22,7 @@ Building
 
 Download the repository:
 
-  git clone https://github.com/jacorbal/keylog.git
+    git clone https://github.com/jacorbal/keylog.git
 
 Compile the project and generate the `keylog`, `klserver`, and `kljson`
 executables in the `bin/` directory.
