@@ -12,11 +12,11 @@
  *
  * @author J. A. Corbal <jacorbal@gmail.com>
  * @version 1.0.4
- * @date Creation date: Mon Feb  9 10:15:47 AM UTC 2026
- * @date Updated 1.0.1: Thu Feb 12 10:22:51 AM UTC 2026
- * @date Updated 1.0.2: Thu Feb 12 14:26:29 PM UTC 2026
- * @date Updated 1.0.3: Thu Feb 12 10:26:32 PM UTC 2026
- * @date Updated 1.0.4: Fri Feb 13 00:01:02 AM UTC 2026
+ * @date Creation date: Mon Feb  9 10:15:47 UTC 2026
+ * @date Updated 1.0.1: Thu Feb 12 10:22:51 UTC 2026
+ * @date Updated 1.0.2: Thu Feb 12 14:26:29 UTC 2026
+ * @date Updated 1.0.3: Thu Feb 12 10:26:32 UTC 2026
+ * @date Updated 1.0.4: Fri Feb 13 00:01:02 UTC 2026
  *
  * @copyright Copyright (c) 2026, J. A. Corbal.
  *            ISC License <https://opensource.org/license/isc-license-txt>

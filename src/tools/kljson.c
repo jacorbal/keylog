@@ -24,7 +24,7 @@
  *
  * @author J. A. Corbal <jacorbal@gmail.com>
  * @version 1.0.4
- * @date Creation date: Fri Feb 13 08:40:22 AM UTC 2026
+ * @date Creation date: Fri Feb 13 08:40:22 UTC 2026
  *
  * @copyright Copyright (c) 2026, J. A. Corbal.
  *            ISC License <https://opensource.org/license/isc-license-txt>
